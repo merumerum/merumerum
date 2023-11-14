@@ -1,5 +1,15 @@
-### Hi there 👋
+<img src="hi.png" width="100" height="100" alt="icon">
 
+### Hi there! I'm Meruert
+## About me
+I'm on my way to becoming a front-end developer, currently studying Javascript. My goal is to become a specialist in this field of programming. 👩🏻‍💻✨
+
+### Contacts
+- [LinkedIn](https://www.linkedin.com/in/meruert-amantay/) 🌱
+- [Discord](https://discordapp.com/users/431131454496309259/) 👾
+
+### My CV with my projects
+- [CV](https://merumerum.github.io/rsschool-cv/)  🌠
 <!--
 **merumerum/merumerum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
