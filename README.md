@@ -1,4 +1,4 @@
-<img src="hi.png" width="100" height="100" alt="icon">
+<img src="IMG_2838.jpeg" width="1000" height="230" alt="icon">
 
 ### Hi there! I'm Meruert
 ## About me
