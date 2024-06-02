@@ -1,7 +1,4 @@
-<img src="7.jpeg" width="1000" height="200" alt="icon">
-
-### Hi there! I'm Meruert
-## About me
+## Hi there! I'm Meruert
 I'm on my way to becoming a front-end developer, currently studying Javascript. My goal is to become a specialist in this field of programming. 👩🏻‍💻✨
 
 ### Contacts
